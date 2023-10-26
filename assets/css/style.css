@@ -14,9 +14,9 @@
  }
 
  a {
-     color: whitesmoke;
-     cursor: none;
-     text-decoration: none;
+    color: whitesmoke;
+    cursor: none;
+    text-decoration: none;
  }
 
  .active {
@@ -144,6 +144,35 @@
     margin-top: 30px;
  }
 
+/* Balkh page */
+.prov-navbar {
+    color: black;
+}
+
+.prov-content {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+    justify-content: first baseline;
+    flex-direction: column;
+    margin-top: 90px;
+}
+
+.prov-content h2 {
+    font-size: 4vmin;
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 80px;
+    color: #42363b;
+}
+
+.prov-content p {
+    font-size: 2vmin;
+    text-align: left;
+}
+
+ /* Footer */
 .footer {
     width: 100%;
     min-height: 100px;
