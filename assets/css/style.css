@@ -87,6 +87,7 @@ header {
     right: 30px;
     width: 40px;
     cursor: pointer;
+    display: none;
 }
 
 /* Mobile device */
@@ -108,10 +109,12 @@ header {
         justify-content: center;
         background-color: #42363b;
         margin-top: -900px;
+        transition: all 0.5s ease;
     }
 
     .mobile-menu {
         margin-top: 0;
+        border-bottom-right-radius: 30%;
     }
 
     .nav-links li {
