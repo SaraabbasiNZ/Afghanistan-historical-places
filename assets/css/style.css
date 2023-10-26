@@ -154,9 +154,9 @@
     width: 100vw;
     height: 100vh;
     align-items: center;
-    justify-content: first baseline;
+    justify-content: center;
     flex-direction: column;
-    margin-top: 90px;
+    margin-top: 20px;
 }
 
 .prov-content h2 {
@@ -170,6 +170,11 @@
 .prov-content p {
     font-size: 2vmin;
     text-align: left;
+}
+
+#gallery {
+    display: flexbox;
+    flex-direction: column;
 }
 
  /* Footer */
