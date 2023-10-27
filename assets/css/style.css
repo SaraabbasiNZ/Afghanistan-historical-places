@@ -177,6 +177,23 @@
     flex-direction: column;
 }
 
+
+/* Feedback Page */
+#feedback-body {
+    font-family: 'Roboto Slab', serif;
+    background: -webkit-linear-gradient(to right, #D6A4A4, #dae2f8);
+    background: linear-gradient(to right, #D6A4A4, #dae2f8);
+}
+.h1-tag{
+    text-align: center;
+    margin-top: 4%;
+}
+.form-content-section{
+    width: 50%;
+    margin-top: 3%;
+    margin-left: 25%;
+}
+
  /* Footer */
 .footer {
     width: 100%;
