@@ -139,7 +139,7 @@
  }
 
  .col img {
-     width: 90%;
+     width: 70%;
      margin-left: 5%;
      height: 315px;
  }
@@ -200,20 +200,25 @@
 }
 
 .prov-content p {
-    font-size: 2vmin;
+    font-size: 3vmin;
     text-align: left;
 }
 
 .gallery {
-    display: block;
+    display: flex;
     width: 100%;
+    max-width: 1200px;
+    flex-wrap: wrap;
+    justify-content: center;
+
 }
 
 .gallery img {
-    display: inline;
-    width: 40%;
-    height: 400px;
-    margin-left: 9%;
+    width: 250px;
+    height: 150px;
+    object-fit: cover;
+    object-position: bottom;
+    padding: 5px;
 }
 
 /* Feedback Page */
