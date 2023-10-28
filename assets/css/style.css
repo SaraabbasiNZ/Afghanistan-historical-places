@@ -229,6 +229,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
 }
 
 form {
@@ -288,7 +289,7 @@ textarea:valid~label {
     margin: 0;
     background: #42363b;
     text-align: center;
-    margin-top: auto;
+    align-items: flex-end;
 }
 
 .footer p {
