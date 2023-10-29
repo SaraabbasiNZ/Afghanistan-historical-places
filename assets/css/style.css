@@ -1,5 +1,5 @@
  /* Google fonts import */
- @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
 
  * {
      padding: 0;
@@ -166,18 +166,18 @@
  }
 
  h4 {
-     font-size: 3vmin;
+     font-size: 4vmin;
      color: #42363b;
      margin: 30px auto;
  }
 
  p {
     color: #5e585b;
-    padding: 0 40px;
+    padding: 0 20px;
  }
 
  .snapshot .ctn {
-    margin-top: 30px;
+    margin-top: 10px;
  }
 
 /* Balkh page */
@@ -196,13 +196,13 @@
     font-size: 4vmin;
     text-align: center;
     margin-bottom: 40px;
-    margin-top: 80px;
+    margin-top: 20px;
     color: #42363b;
 }
 
 .prov-content p {
     font-size: 3vmin;
-    text-align: left;
+    text-align: justify;
 }
 
 .gallery {
@@ -303,6 +303,10 @@ textarea:valid~label {
  /* Mobile device */
 
 @media only screen and (max-width:480px) {
+    h4 {
+        font-size: large;
+    }
+    
     .header-content h1 {
         font-size: x-large;
     }
@@ -311,10 +315,10 @@ textarea:valid~label {
         font-size: large;
     }
     
-    h4 {
-        font-size: medium;
+    .title h1{
+        font-size: large;
     }
-    
+
     .col {
         flex-direction: column;
     }
@@ -322,6 +326,17 @@ textarea:valid~label {
     .flex-item-left,
     .flex-item-right {
         width: 100%;
+    }
+
+    .prov-content h2 {
+        font-size: large;
+        padding: 10px;
+    }
+
+    .prov-content p {
+        font-size: medium;
+        margin-bottom: 20%;
+        padding: 0 30px;
     }
 
 }
@@ -373,6 +388,18 @@ textarea:valid~label {
      .col img {
         max-width: 90%;
         height: auto;
+     }
+
+     .col p {
+        font-size: large;
+     }
+
+     .row p{
+        font-size: large;
+     }
+
+     .snapshot .ctn {
+        margin-top: 60px;
      }
 
      .footer {
