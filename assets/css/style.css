@@ -303,8 +303,16 @@ textarea:valid~label {
  /* Mobile device */
 
 @media only screen and (max-width:480px) {
+    .header-content h1 {
+        font-size: x-large;
+    }
+
+    .header-content h2 {
+        font-size: large;
+    }
+    
     h4 {
-        font-size: 3vmin;
+        font-size: medium;
     }
     
     .col {
