@@ -112,6 +112,7 @@
      border-radius: 30px;
      color: whitesmoke;
      margin-bottom: 80px;
+     display: inline-flex;
  }
 
  .row {
@@ -302,7 +303,11 @@ textarea:valid~label {
  /* Mobile device */
 
 @media only screen and (max-width:480px) {
-    ​ .col {
+    h4 {
+        font-size: 3vmin;
+    }
+    
+    .col {
         flex-direction: column;
     }
 
@@ -313,8 +318,8 @@ textarea:valid~label {
 
 }
 
- @media only screen and (max-width:850px) {
-     .menu-btn {
+@media only screen and (max-width:850px) {    
+    .menu-btn {
          display: block;
      }
 
@@ -326,6 +331,7 @@ textarea:valid~label {
          position: absolute;
          top: 30px;
          left: 30px;
+         color: whitesmoke
      }
 
      .nav-links {
@@ -358,6 +364,7 @@ textarea:valid~label {
 
      .col img {
         max-width: 90%;
+        height: auto;
      }
 
      .footer {
