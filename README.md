@@ -59,12 +59,9 @@ This repository is dedicated to the "Afghanistan Historical Sites" project, whic
 ### Features Left to Implement
 
 - User Profiles: Allow users to create profiles and save favorite sites.
-- Search Functionality: Implement a robust search feature.
 - Comments and Ratings: Enable user feedback on sites.
 - Multilingual Support: Expand accessibility with multiple languages.
 - Educational Resources: Offer downloadable resources.
-- Mobile App: Develop a mobile application for on-the-go access.
-- Virtual Reality (VR) Tours: Provide immersive VR experiences.
 - Community Forums: Foster user discussions.
 - Data Visualizations: Add interactive visual content.
 - Offline Access: Allow content download for offline use.
