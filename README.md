@@ -38,7 +38,7 @@ This repository is dedicated to the "Afghanistan Historical Sites" project, whic
 
   - The footer includes essential contact information for further communication, along with the copyright noticea.
 
-![Screenshot-feedback](https://github.com/SaraabbasiNZ/Afghanistan-historical-places/assets/144739405/4bc92f18-e6db-407f-9308-1bd6b5d43634)
+![Footer](https://github.com/SaraabbasiNZ/Afghanistan-historical-places/assets/144739405/24b71083-5b59-445e-8d99-b7e24351bf1e)
 
 - __Bamiya, Balkh and Herat pages__
 
@@ -54,7 +54,7 @@ This repository is dedicated to the "Afghanistan Historical Sites" project, whic
 
   - The Feedback Page is a user-friendly tool for collecting valuable input, bug reports, and suggestions to improve the project. 
 
-[![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)](https://github.com/SaraabbasiNZ/Afghanistan-historical-places/issues/7#issue-1967371209)
+![Screenshot-feedback](https://github.com/SaraabbasiNZ/Afghanistan-historical-places/assets/144739405/4bc92f18-e6db-407f-9308-1bd6b5d43634)
 
 ### Features Left to Implement
 
