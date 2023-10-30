@@ -38,9 +38,9 @@ This repository is dedicated to the "Afghanistan Historical Sites" project, whic
 
   - The footer includes essential contact information for further communication, along with the copyright noticea.
 
-![Footer](https://github.com/SaraabbasiNZ/Afghanistan-historical-places/assets/144739405/24b71083-5b59-445e-8d99-b7e24351bf1e)
+![Screenshot-feedback](https://github.com/SaraabbasiNZ/Afghanistan-historical-places/assets/144739405/4bc92f18-e6db-407f-9308-1bd6b5d43634)
 
-- __Gallery__
+- __Bamiya, Balkh and Herat pages__
 
   - This section offers a comprehensive exploration of three significant regions: Bamiyan, Balkh, and Herat. Within each page, you'll find a wealth of historical insights that paint a vivid picture of their past, from ancient civilizations to more recent events.
  
