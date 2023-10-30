@@ -29,25 +29,24 @@
     </nav>
 
     <div class="feedback-hero">
-        <form>
+        <form method="POST" action="https://formdump.codeinstitute.net/">
             <div class="input-group">
-                <input type="text" id="name" required>
+                <input type="text" id="name" name="name" required>
                 <label for="name">Your Name</label>
             </div>
             <div class="input-group">
-                <input type="text" id="number" required>
+                <input type="text" id="number" name="number" required>
                 <label for="number">Phone No.</label>
             </div>
             <div class="input-group">
-                <input type="email" id="email" required>
+                <input type="email" id="email" name="email" required>
                 <label for="email">Email Id</label>
             </div>
             <div class="input-group">
-                <textarea id="message" rows="8" required></textarea>
+                <textarea id="message" rows="8" name="message" required></textarea>
                 <label for="message">Your message</label>
-            </form>
-            <button type="submit">Submit</button>
-    </div>
+                <button type="submit">Submit</button>
+        </form>
     <section class="footer">
         <p>
             123, fifthe Avenue, NY 10101, New York, USA | phone: 123-123-123 |
