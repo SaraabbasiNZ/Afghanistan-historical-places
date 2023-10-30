@@ -28,12 +28,12 @@ This repository is dedicated to the "Afghanistan Historical Sites" project, whic
 
 ![The landing page image](https://github.com/SaraabbasiNZ/Afghanistan-historical-places/assets/144739405/6af428fd-fb9f-45f6-a3e6-2783a94273e0)
 
-- __Club Ethos Section__
+- __History Snapshot Section__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - This section is your passport to Afghanistan's historical and cultural tapestry. We offer a captivating introduction to this intriguing country for those who may not be familiar with it. 
+  - Through compelling images and engaging articles, we invite you to explore Afghanistan's stunning landscapes, architectural marvels, and profound heritage. We're here to share the captivating stories that have shaped this nation, from ancient civilizations to legendary figures. 
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Snapshots](https://github.com/SaraabbasiNZ/Afghanistan-historical-places/assets/144739405/4a5e605f-83cb-4cbf-a8bf-6cfa8ccbc687)
 
 - __Meetup Times section__
 
