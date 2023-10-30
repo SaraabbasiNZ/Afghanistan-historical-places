@@ -51,15 +51,11 @@ This repository is dedicated to the "Afghanistan Historical Sites" project, whic
 ![Screenshot-balkh](https://github.com/SaraabbasiNZ/Afghanistan-historical-places/assets/144739405/f87b9c17-de0b-4d6d-ae6c-97d1b5fd941a)
 ![Screenshot-herat](https://github.com/SaraabbasiNZ/Afghanistan-historical-places/assets/144739405/99bc45c9-274c-4402-8369-5f547d1c8b99)
 
-- __The Sign Up Page__
+- __The Feedback Page__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - The Feedback Page is a user-friendly tool for collecting valuable input, bug reports, and suggestions to improve the project. 
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+[![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)](https://github.com/SaraabbasiNZ/Afghanistan-historical-places/issues/7#issue-1967371209)
 
 ### Features Left to Implement
 
