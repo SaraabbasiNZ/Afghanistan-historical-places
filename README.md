@@ -35,17 +35,9 @@ This repository is dedicated to the "Afghanistan Historical Sites" project, whic
 
 ![Snapshots](https://github.com/SaraabbasiNZ/Afghanistan-historical-places/assets/144739405/4a5e605f-83cb-4cbf-a8bf-6cfa8ccbc687)
 
-- __Meetup Times section__
-
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
-
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
-
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer includes essential contact information for further communication, along with the copyright noticea.
 
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
 
