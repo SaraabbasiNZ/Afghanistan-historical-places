@@ -23,8 +23,7 @@ This repository is dedicated to the "Afghanistan Historical Sites" project, whic
 
 - __The landing page image__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Afghanistan historical places with an eye catching animation to grab their attention
+  - The landing photo showcases a majestic Afghan mountain, accompanied by text, ensuring users can easily recognize the associated location. Furthermore, this section entices users with a captivating animation, drawing their attention to Afghanistan's historical sites.
 
 ![The landing page image](https://github.com/SaraabbasiNZ/Afghanistan-historical-places/assets/144739405/6af428fd-fb9f-45f6-a3e6-2783a94273e0)
 
@@ -59,7 +58,16 @@ This repository is dedicated to the "Afghanistan Historical Sites" project, whic
 
 ### Features Left to Implement
 
-- Another feature idea
+- User Profiles: Allow users to create profiles and save favorite sites.
+- Search Functionality: Implement a robust search feature.
+- Comments and Ratings: Enable user feedback on sites.
+- Multilingual Support: Expand accessibility with multiple languages.
+- Educational Resources: Offer downloadable resources.
+- Mobile App: Develop a mobile application for on-the-go access.
+- Virtual Reality (VR) Tours: Provide immersive VR experiences.
+- Community Forums: Foster user discussions.
+- Data Visualizations: Add interactive visual content.
+- Offline Access: Allow content download for offline use.
 
 ## Testing 
 
