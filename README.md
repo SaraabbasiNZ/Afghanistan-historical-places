@@ -1,6 +1,7 @@
 # Afghanistan Top 3 Historical Sites
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 This repository is dedicated to the "Afghanistan Historical Sites" project, which aims to create an informative and interactive platform for exploring the rich history and cultural heritage of Afghanistan. The project focuses on showcasing historical sites, landmarks, and artifacts throughout the country, with an emphasis on providing educational resources and promoting cultural preservation. 
 
 ![screenshot-dif-proj](https://github.com/SaraabbasiNZ/Afghanistan-historical-places/assets/144739405/f6adb17b-78be-42cc-83d3-15c59500b5fa)
@@ -155,6 +156,45 @@ You can break the credits section up into Content and Media, depending on what y
 
   - The footer includes essential contact information for further communication, along with the copyright noticea.
 
+=======
+This repository is dedicated to the "Afghanistan Historical Sites" project, which aims to create an informative and interactive platform for exploring the rich history and cultural heritage of Afghanistan. The project focuses on showcasing historical sites, landmarks, and artifacts throughout the country, with an emphasis on providing educational resources and promoting cultural preservation.
+
+![screenshot-dif-proj](https://github.com/SaraabbasiNZ/Afghanistan-historical-places/assets/144739405/f6adb17b-78be-42cc-83d3-15c59500b5fa)
+
+## Features
+
+- Detailed Information: Explore comprehensive details about various historical sites and their historical significance.
+- Visual Content: Access a collection of images and multimedia content related to each site.
+- Educational Resources: Find articles, historical context, and stories that bring these sites to life.
+- User Contributions: Allow users to contribute information, images, or additional historical insights to enrich the database.
+
+### Existing Features
+
+- **Navigation Bar**
+
+  - Featured on all five pages, the full responsive navigation bar includes links to the Logo, Home page, Bamiyan, Balkh, Herat and Feedback page and is identical in each page to allow for easy navigation.
+  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+
+![navigation bar](https://github.com/SaraabbasiNZ/Afghanistan-historical-places/assets/144739405/4c196976-ea7c-4190-b4f6-c1c08260f785)
+
+- **The landing page image**
+
+  - The landing photo showcases a majestic Afghan mountain, accompanied by text, ensuring users can easily recognize the associated location. Furthermore, this section entices users with a captivating animation, drawing their attention to Afghanistan's historical sites.
+
+![The landing page image](https://github.com/SaraabbasiNZ/Afghanistan-historical-places/assets/144739405/6af428fd-fb9f-45f6-a3e6-2783a94273e0)
+
+- **History Snapshot Section**
+
+  - This section is your passport to Afghanistan's historical and cultural tapestry. We offer a captivating introduction to this intriguing country for those who may not be familiar with it.
+  - Through compelling images and engaging articles, we invite you to explore Afghanistan's stunning landscapes, architectural marvels, and profound heritage. We're here to share the captivating stories that have shaped this nation, from ancient civilizations to legendary figures.
+
+![Snapshots](https://github.com/SaraabbasiNZ/Afghanistan-historical-places/assets/144739405/87fd6339-d560-410e-a3ce-fd1c759ac87e)
+
+- **The Footer**
+
+  - The footer includes essential contact information for further communication, along with the copyright noticea.
+
+>>>>>>> 6dac503 (Modified Feedback page)
 ![Footer](https://github.com/SaraabbasiNZ/Afghanistan-historical-places/assets/144739405/24b71083-5b59-445e-8d99-b7e24351bf1e)
 
 - **Bamiya, Balkh and Herat pages**
@@ -231,4 +271,7 @@ You can break the credits section up into Content and Media, depending on what y
 
 - The photos used on the home and sign up page are from This Open Source site
 - The images used for the gallery page were taken from this other open source site
+<<<<<<< HEAD
+>>>>>>> 6dac503 (Modified Feedback page)
+=======
 >>>>>>> 6dac503 (Modified Feedback page)
