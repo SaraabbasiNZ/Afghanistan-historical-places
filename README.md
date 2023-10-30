@@ -43,10 +43,13 @@ This repository is dedicated to the "Afghanistan Historical Sites" project, whic
 
 - __Gallery__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - This section offers a comprehensive exploration of three significant regions: Bamiyan, Balkh, and Herat. Within each page, you'll find a wealth of historical insights that paint a vivid picture of their past, from ancient civilizations to more recent events.
+ 
+  - But it's not just about reading history – we've also curated a captivating collection of photographs. These images allow you to not only envision these places but to emotionally connect with them. They transport you to the heart of Bamiyan's rugged landscapes, the cultural richness of Balkh, and the architectural splendor of Herat. It's an immersive experience that allows you to simultaneously learn and be visually inspired. 
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Screenshot-bamiyan](https://github.com/SaraabbasiNZ/Afghanistan-historical-places/assets/144739405/76393d52-c3d2-48f6-a48f-a2935d151fb5)
+![Screenshot-balkh](https://github.com/SaraabbasiNZ/Afghanistan-historical-places/assets/144739405/f87b9c17-de0b-4d6d-ae6c-97d1b5fd941a)
+![Screenshot-herat](https://github.com/SaraabbasiNZ/Afghanistan-historical-places/assets/144739405/99bc45c9-274c-4402-8369-5f547d1c8b99)
 
 - __The Sign Up Page__
 
