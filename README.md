@@ -33,7 +33,7 @@ This repository is dedicated to the "Afghanistan Historical Sites" project, whic
   - This section is your passport to Afghanistan's historical and cultural tapestry. We offer a captivating introduction to this intriguing country for those who may not be familiar with it. 
   - Through compelling images and engaging articles, we invite you to explore Afghanistan's stunning landscapes, architectural marvels, and profound heritage. We're here to share the captivating stories that have shaped this nation, from ancient civilizations to legendary figures. 
 
-![Snapshots](https://github.com/SaraabbasiNZ/Afghanistan-historical-places/assets/144739405/4a5e605f-83cb-4cbf-a8bf-6cfa8ccbc687)
+![Snapshots](https://github.com/SaraabbasiNZ/Afghanistan-historical-places/assets/144739405/87fd6339-d560-410e-a3ce-fd1c759ac87e)
 
 - __The Footer__ 
 
