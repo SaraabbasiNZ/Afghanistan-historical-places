@@ -16,15 +16,15 @@ This repository is dedicated to the "Afghanistan Historical Sites" project, whic
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+  - Featured on all five pages, the full responsive navigation bar includes links to the Logo, Home page, Bamiyan, Balkh, Herat and Feedback page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![navigation bar](https://github.com/SaraabbasiNZ/Afghanistan-historical-places/assets/144739405/4c196976-ea7c-4190-b4f6-c1c08260f785)
 
 - __The landing page image__
 
   - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - This section introduces the user to Afghanistan historical places with an eye catching animation to grab their attention
 
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
