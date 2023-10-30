@@ -39,7 +39,7 @@ This repository is dedicated to the "Afghanistan Historical Sites" project, whic
 
   - The footer includes essential contact information for further communication, along with the copyright noticea.
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](https://github.com/SaraabbasiNZ/Afghanistan-historical-places/assets/144739405/24b71083-5b59-445e-8d99-b7e24351bf1e)
 
 - __Gallery__
 
