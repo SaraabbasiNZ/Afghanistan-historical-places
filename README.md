@@ -26,7 +26,7 @@ This repository is dedicated to the "Afghanistan Historical Sites" project, whic
   - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
   - This section introduces the user to Afghanistan historical places with an eye catching animation to grab their attention
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![The landing page image](https://github.com/SaraabbasiNZ/Afghanistan-historical-places/assets/144739405/6af428fd-fb9f-45f6-a3e6-2783a94273e0)
 
 - __Club Ethos Section__
 
