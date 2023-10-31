@@ -4,6 +4,40 @@ This repository is dedicated to the "Afghanistan Historical Sites" project, whic
 
 ![screenshot-dif-proj](https://github.com/SaraabbasiNZ/Afghanistan-historical-places/assets/144739405/f6adb17b-78be-42cc-83d3-15c59500b5fa)
 
+## Site Owner Goals 
+- Promote Afghanistan's rich historical and cultural heritage.
+- Provide educational content about historical places.
+- Attract tourists and boost the tourism industry.
+- Digitally archive historical sites for preservation.
+- Raise awareness and appreciation of Afghan history and culture.
+- Demonstrate positive social impact.
+
+## User Stories
+- ### First time user
+  - As a first-time user, I want to easily navigate the website to quickly find information about historical places in Afghanistan.
+  - As a first time user, I want to discover concise, informative descriptions of each site, providing an introduction to their historical significance and cultural relevance. 
+  - As a first time user, I want a user-friendly experience that helps me explore the beauty of Afghanistan's historical places and encourages further exploration of the platform.
+
+- ### Returning User
+  - As a returning user, I want to easily access my previously saved historical places and any notes or comments I've added during previous visits.  
+  - As a returning user, I want to stay updated on any new historical places or additional information that has been added since my last visit.
+  - As a returning user, I value a personalized experience, so I would appreciate recommendations or personalized content based on my previous interactions with the platform.
+
+- ### Frequent User
+  - As a frequent user, I want to be able to contribute by adding new historical places, photos, or additional information to enhance the platform's content.
+  - As a frequent user, I value a sense of community, so I would appreciate the ability to connect with other users, share my experiences, and participate in discussions or forums related to Afghanistan's historical places.
+
+## Design
+
+### Imagery
+The design of this project focuses on using compelling and high-quality imagery to visually immerse users in the historical beauty and significance of Afghanistan's historical places. Carefully selected images complement the content, providing users with a captivating and informative visual experience. 
+
+### Colors
+The website's color scheme employs a combination of white and light gray, with subtle accents of dark gray, harmonizing with the natural imagery. The landing page features a white smoke font color against a light gray background, enhancing the visual appeal for exploration and reading. On subsequent pages, a white background with black font ensures optimal readability and user comfort. 
+
+### Fonts
+The Oswald font is the main font used throughout the whole website. This font was imported via [Google Fonts](https://fonts.google.com/). I'm using Sans Serif as a backup font, in case for any reason the main font isn't being imported into the site correctly.
+
 ## Features
 
 - Detailed Information: Explore comprehensive details about various historical sites and their historical significance.
