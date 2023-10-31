@@ -212,6 +212,7 @@
      max-width: 1200px;
      flex-wrap: wrap;
      justify-content: center;
+
  }
 
  .gallery img {
@@ -225,7 +226,7 @@
  /* Feedback Page */
  .feedback-hero {
      width: 100%;
-     height: 100vh;
+     height: auto;
      background-image: url('../images/background-mountain.jpg');
      background-position: center;
      background-size: cover;
@@ -233,11 +234,15 @@
      align-items: center;
      justify-content: center;
      flex-direction: column;
+     z-index: -1;
+     position: relative;
+     margin-top: 80px;
  }
 
  form {
      width: 90%;
      max-width: 600px;
+     padding-top: 50px;
  }
 
  .input-group {
@@ -355,7 +360,7 @@
          position: absolute;
          top: 30px;
          left: 30px;
-         color: whitesmoke
+         color: whitesmoke;
      }
 
      .nav-links {
@@ -413,7 +418,7 @@
  }
 
  img:hover {
-     scale: 1.1;
+     transform: scale(1.1);
  }
 
  .ctn:hover {
@@ -426,3 +431,5 @@
      color: #fc036b;
      cursor: zoom-out;
  }
+
+ 
