@@ -38,6 +38,8 @@
      padding: 20px;
      color: whitesmoke;
      background-color: #42363b;
+     z-index: 2;
+     min-height: 80px;
  }
 
  .nav-links {
@@ -185,11 +187,10 @@
  .prov-content {
      display: flex;
      width: 100vw;
-     height: 100vh;
      align-items: center;
      justify-content: center;
      flex-direction: column;
-     margin-top: 20px;
+     margin-top: 150px;
  }
 
  .prov-content h2 {
@@ -209,10 +210,11 @@
  .gallery {
      display: flex;
      width: 100%;
-     max-width: 1200px;
      flex-wrap: wrap;
      justify-content: center;
-
+     bottom: 100px;
+     position: relative;
+     margin-top: 150px;
  }
 
  .gallery img {
@@ -227,22 +229,27 @@
  .feedback-hero {
      width: 100%;
      height: auto;
-     background-image: url('../images/background-mountain.jpg');
-     background-position: center;
-     background-size: cover;
      display: flex;
      align-items: center;
      justify-content: center;
      flex-direction: column;
-     z-index: -1;
+     z-index: 0;
      position: relative;
-     margin-top: 80px;
+     margin-bottom: 200px;
+ }
+
+ #feedback-body {
+     background-image: url('../images/background-mountain.jpg');
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
  }
 
  form {
      width: 90%;
      max-width: 600px;
-     padding-top: 50px;
+     margin-top: 150px;
+     background-color: rgba(0, 0, 0, 0.3);
  }
 
  .input-group {
@@ -258,6 +265,8 @@
      border: 1px solid #fff;
      background: transparent;
      font-size: 15px;
+     color: white;
+     font-weight: 500;
  }
 
  label {
@@ -299,6 +308,8 @@
      background: #42363b;
      text-align: center;
      align-items: flex-end;
+     bottom: 0px;
+     position: fixed;
  }
 
  .footer p {
@@ -431,5 +442,3 @@
      color: #fc036b;
      cursor: zoom-out;
  }
-
- 
