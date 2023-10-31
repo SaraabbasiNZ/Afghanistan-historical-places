@@ -2,7 +2,7 @@
 
 This repository is dedicated to the "Afghanistan Historical Sites" project, which aims to create an informative and interactive platform for exploring the rich history and cultural heritage of Afghanistan. The project focuses on showcasing historical sites, landmarks, and artifacts throughout the country, with an emphasis on providing educational resources and promoting cultural preservation. 
 
-The live link can be found here - [Afghanistan Historical Places](https://saraabbasinz.github.io/Afghanistan-historical-places/balkh.html)
+The live link can be found here - [Afghanistan Historical Places](https://saraabbasinz.github.io/Afghanistan-historical-places/index.html)
 
 ![screenshot-dif-proj](https://github.com/SaraabbasiNZ/Afghanistan-historical-places/assets/144739405/f6adb17b-78be-42cc-83d3-15c59500b5fa)
 
@@ -163,7 +163,7 @@ The project was deployed using GitHub pages. The steps to deploy using GitHub pa
 5. Once selected, click the 'Save'.
 6. Deployment should be confirmed by a message on a green background saying "Your site is published at" followed by the web address.
 
-The live link can be found here - [Afghanistan Historical Places](https://saraabbasinz.github.io/Afghanistan-historical-places/balkh.html)
+The live link can be found here - [Afghanistan Historical Places](https://saraabbasinz.github.io/Afghanistan-historical-places/index.html)
 
 ## Credits
 
