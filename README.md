@@ -1,26 +1,15 @@
 # Afghanistan Top 3 Historical Sites
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 This repository is dedicated to the "Afghanistan Historical Sites" project, which aims to create an informative and interactive platform for exploring the rich history and cultural heritage of Afghanistan. The project focuses on showcasing historical sites, landmarks, and artifacts throughout the country, with an emphasis on providing educational resources and promoting cultural preservation. 
 
 ![screenshot-dif-proj](https://github.com/SaraabbasiNZ/Afghanistan-historical-places/assets/144739405/f6adb17b-78be-42cc-83d3-15c59500b5fa)
 
-## Features 
-=======
-This repository is dedicated to the "Afghanistan Historical Sites" project, which aims to create an informative and interactive platform for exploring the rich history and cultural heritage of Afghanistan. The project focuses on showcasing historical sites, landmarks, and artifacts throughout the country, with an emphasis on providing educational resources and promoting cultural preservation.
-
-![screenshot-dif-proj](https://github.com/SaraabbasiNZ/Afghanistan-historical-places/assets/144739405/f6adb17b-78be-42cc-83d3-15c59500b5fa)
-
 ## Features
->>>>>>> 6dac503 (Modified Feedback page)
 
 - Detailed Information: Explore comprehensive details about various historical sites and their historical significance.
 - Visual Content: Access a collection of images and multimedia content related to each site.
 - Educational Resources: Find articles, historical context, and stories that bring these sites to life.
 - User Contributions: Allow users to contribute information, images, or additional historical insights to enrich the database.
-
-<<<<<<< HEAD
 
 ### Existing Features
 
