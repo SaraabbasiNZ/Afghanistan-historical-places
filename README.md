@@ -40,6 +40,22 @@ The website's color scheme employs a combination of white and light gray, with s
 ### Fonts
 The Oswald font is the main font used throughout the whole website. This font was imported via [Google Fonts](https://fonts.google.com/). I'm using Sans Serif as a backup font, in case for any reason the main font isn't being imported into the site correctly.
 
+## Wireframes
+Wireframes were produced using Balsamiq. 
+
+ <details>
+
+ <summary>Desktop Wireframe</summary>
+
+![Desktop Wireframe](docs/wireframes/desktopwireframe.png)
+ </details>
+
+ <details>
+    <summary>Mobile Wireframe</summary>
+
+![Mobile Wireframe](docs/wireframes/mobilewireframe.png)
+ </details>
+
 ## Features
 
 - Detailed Information: Explore comprehensive details about various historical sites and their historical significance.
