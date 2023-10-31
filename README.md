@@ -197,6 +197,8 @@ All educational AFG history content and media was sourced from the below website
 - (http://www.traveladventures.org/continents/asia/herat-citadel05.html)
 - (https://www.atlasobscura.com/places/herat-national-museum)
 - (https://en.m.wikipedia.org/wiki/File:1879_Citadel_of_Herat.jpg)
+- [Coding help link](https://www.youtube.com/watch?v=ZdJSHEczi_0)
+- [coding for feedback](https://www.youtube.com/watch?v=524ycUqs3f0)
 
 ## Acknowledgments
 My mentor Antonio for his support and advice.
