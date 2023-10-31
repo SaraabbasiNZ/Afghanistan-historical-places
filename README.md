@@ -150,7 +150,7 @@ Friends and family members were asked to review the site and documentation to po
 #### Navbar on Smaller Devices
 In the header element, there are anchor links for users to navigate to different sections on the website. However, when viewed on smaller devices, the logo became unreadable because the other three pages had a white background. To address this issue, we applied a code to change the navbar's background color to gray on smaller devices, ensuring that the logo is legible on all pages.
 #### Feedback page on Smaller Devices
-The feedback page had an issue with its code. When viewed on a smaller device, the menu bar and the feedback form appeared side by side, which was far from ideal. To rectify this, with the assistance of my mentor, we implemented the following code adjustments: z-index: -1, position: relative, and margin-top: 80px. This resolved the problem so that when clicking the menu bar, only the menu bar is displayed without interfering with the form.
+The feedback page had an issue with its code. When viewed on a smaller device, the menu bar and the feedback form appeared side by side, which was far from ideal. To rectify this, with the assistance of my mentor, we implemented the following code adjustments: z-index: 0 and position: relative. This resolved the problem so that when clicking the menu bar, only the menu bar is displayed without interfering with the form.
 
 ## Technologies Used
 
